@@ -1,4 +1,4 @@
-# bases-de-dados-sobre-anuncios-fraudulentos
+# Bases de dados sobre anúncios fraudulentos nas plataformas da Meta
 
 O **_Observatório da indústria da desinformação e seu impacto nas relações de consumo no Brasil_** é um projeto firmado em parceria entre o NetLab UFRJ e a Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública (Senacon/MJSP) com o objetivo de prover insumos que possam embasar políticas públicas e parâmetros de transparência para proteção dos consumidores e anunciantes a partir de análises sobre a infraestrutura, o modelo de negócios e os modos de atuação das plataformas digitais no Brasil.
 
