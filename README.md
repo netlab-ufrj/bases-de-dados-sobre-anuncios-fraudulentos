@@ -39,7 +39,7 @@ Para facilitar sua manipulação, aglutinamos e consolidamos essas bases segundo
 | **ads_with_same_creative_text** | No caso de coletas realizadas a partir da interface de usuário do repositório de anúncios comerciais da Meta, quantidade de anúncios idênticos ao anúncio identificado. |
 | **political_disclaimer** | Indica se o anúncio foi categorizado como político ou não e, portanto, se ele foi coletado a partir da interface de usuário do repositório de anúncios comerciais da Meta ou de forma automática, no caso de anúncios políticos. |
 
-Campos preenchidos com “-” indicam problemas na recuperação de dados ou não aplicabilidade.
+Campos preenchidos com _-_ indicam problemas na recuperação de dados ou não aplicabilidade.
 
 ## Permissões de uso e contato
 
