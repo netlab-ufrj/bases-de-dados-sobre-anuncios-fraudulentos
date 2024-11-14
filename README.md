@@ -34,16 +34,16 @@ Para facilitar sua manipulação, aglutinamos e consolidamos essas bases segundo
 
 | Campo         | Descrição |
 | ------------- |:-------------|
-| ad_id      | Identificador único do anúncio. |
-| ad_url      | URL única para acessar o anúncio na interface de usuário da Biblioteca de Anúncios da Meta. É importante ressaltar que anúncios não categorizados como políticos não são armazenados no repositório. |
-| ad_start_date | Data em que o anúncio começou a ser veiculado. |
-| ad_end_date | Data em que o anúncio parou de ser veiculado, ou, na ausência desta informação, data em que ele foi visto pela última vez na interface de usuário da Biblioteca de Anúncios da Meta. |
-| page_id | Identificador único da página anunciante. |
-| page_name | Nome da página anunciante. |
-| sponsor_name | Nome registrado por quem financiou o anúncio nas plataformas da Meta, no caso de anúncios originalmente veiculados como políticos. |
-| publisher_platforms | Plataformas do ecossistema da Meta em que o anúncio circulou. |
-| ads_with_same_creative_text | No caso de coletas realizadas a partir da interface de usuário do repositório de anúncios comerciais da Meta, quantidade de anúncios idênticos ao anúncio identificado. |
-| political_disclaimer | Indica se o anúncio foi categorizado como político ou não e, portanto, se ele foi coletado a partir da interface de usuário do repositório de anúncios comerciais da Meta ou de forma automática, no caso de anúncios políticos. |
+| **ad_id**      | Identificador único do anúncio. |
+| **ad_url**      | URL única para acessar o anúncio na interface de usuário da Biblioteca de Anúncios da Meta. É importante ressaltar que anúncios não categorizados como políticos não são armazenados no repositório. |
+| **ad_start_date** | Data em que o anúncio começou a ser veiculado. |
+| **ad_end_date** | Data em que o anúncio parou de ser veiculado, ou, na ausência desta informação, data em que ele foi visto pela última vez na interface de usuário da Biblioteca de Anúncios da Meta. |
+| **page_id** | Identificador único da página anunciante. |
+| **page_name** | Nome da página anunciante. |
+| **sponsor_name** | Nome registrado por quem financiou o anúncio nas plataformas da Meta, no caso de anúncios originalmente veiculados como políticos. |
+| **publisher_platforms** | Plataformas do ecossistema da Meta em que o anúncio circulou. |
+| **ads_with_same_creative_text** | No caso de coletas realizadas a partir da interface de usuário do repositório de anúncios comerciais da Meta, quantidade de anúncios idênticos ao anúncio identificado. |
+| **political_disclaimer** | Indica se o anúncio foi categorizado como político ou não e, portanto, se ele foi coletado a partir da interface de usuário do repositório de anúncios comerciais da Meta ou de forma automática, no caso de anúncios políticos. |
 
 Campos preenchidos com - indicam problemas na recuperação de dados ou não aplicabilidade.
 
