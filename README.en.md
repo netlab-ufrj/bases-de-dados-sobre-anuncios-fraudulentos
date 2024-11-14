@@ -1,5 +1,8 @@
 # Datasets of scam and fraudulent ads served on Meta platforms
 
+[![Static Badge](https://img.shields.io/badge/lang-pt-blue?style=flat)](https://github.com/netlab-ufrj/bases-de-dados-sobre-anuncios-fraudulentos/blob/main/README.md)
+[![Static Badge](https://img.shields.io/badge/lang-en-red?style=flat)](https://github.com/netlab-ufrj/bases-de-dados-sobre-anuncios-fraudulentos/blob/main/README.en.md)
+
 ## About the project
 
 **_[The Disinformation Industry Observatory and its impact on consumer relations in Brazil](https://netlab.eco.ufrj.br/en/observatorio-industria-desinformacao)_** is a project established in partnership between NetLab UFRJ and Brazil’s National Consumer Secretariat of the Ministry of Justice and Public Security (Senacon/MJSP) which aims to provide input that can support public policies and transparency parameters to protect consumers and advertisers based on analyses of digital platform data infrastructure and case studies on scam and fraudulent advertising on social media platforms in Brazil.
