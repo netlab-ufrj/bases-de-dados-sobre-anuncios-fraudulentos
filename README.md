@@ -1,5 +1,8 @@
 # Bases de dados sobre anúncios fraudulentos nas plataformas da Meta
 
+[![Static Badge](https://img.shields.io/badge/lang-pt-blue?style=flat)](https://github.com/netlab-ufrj/bases-de-dados-sobre-anuncios-fraudulentos/blob/main/README.md)
+[![Static Badge](https://img.shields.io/badge/lang-en-red?style=flat)](https://github.com/netlab-ufrj/bases-de-dados-sobre-anuncios-fraudulentos/blob/main/README.en.md)
+
 ## Sobre o projeto
 
 O **_[Observatório da indústria da desinformação e seu impacto nas relações de consumo no Brasil](https://netlab.eco.ufrj.br/observatorio-industria-desinformacao)_** é um projeto firmado em parceria entre o NetLab UFRJ e a Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública (Senacon/MJSP) com o objetivo de prover insumos que possam embasar políticas públicas e parâmetros de transparência para proteção dos consumidores e anunciantes a partir de análises sobre a infraestrutura de dados das plataformas digitais e estudos de caso sobre a publicidade fraudulenta nas plataformas de redes sociais no Brasil.
